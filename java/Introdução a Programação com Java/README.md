@@ -1,6 +1,8 @@
 # Introdução a Programação com Java
 
-[TOC]
+[**Exercício 1 - Visita na Feira**](## Exercício 1 - Visita na Feira)
+[**Exercício 2 - Multiplicação Simples**](##Exercício 2 - Multiplicação Simples)
+[**Exercício 3 - Folha de Pagamento**](##Exercício 3 - Folha de Pagamento)
 
 ## Exercício 1 - Visita na Feira
 
@@ -16,11 +18,15 @@ A entrada contém 2 valores inteiros, separados por um espaço.
 
 Imprimir a mensagem "X = " (sendo a letra X maiúscula) seguido pelo valor da variável **X** e pelo final de linha. Assegure que exista um espaço antes e depois do sinal de igualdade.
 
+<center>
+
 | Exemplos de Entrada | Exemplos de Saída |
 | ------------------- | ----------------- |
 | 11 7                | X = 18            |
 | -11 6               | X = -5            |
 | 11 -2               | X = 9             |
+
+</center>
 
 ---
 
